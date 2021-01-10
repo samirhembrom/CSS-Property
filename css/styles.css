@@ -1,0 +1,145 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+
+p{
+  line-height: 2;
+  font-family: 'Caveat', cursive;
+  font-size: 2.188rem;
+  color: #008891;
+}
+
+h1 {
+  font-size: 5.625rem;
+  font-family: 'Permanent Marker', cursive;
+  margin: 30px auto;
+  color: #222831;
+}
+h2 {
+  font-size: 2.625rem;
+  font-family: 'Yusei Magic', sans-serif;
+  margin: 30px auto;
+  color: #222831;
+}
+h3 {
+  font-size: 1.625rem;
+  font-family: 'Ubuntu', sans-serif;
+  margin: 30px auto;
+  color: #222831;
+}
+hr{
+  border: dotted #374045 5px;
+  border-bottom: none;
+  margin: 40px auto;
+  width: 5%;
+
+}
+a{
+  color: #11999E;
+  font-family: 'Ubuntu', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.top-container{
+  background-color: #e4f9f5;
+  padding: 100px;
+  position: relative;
+}
+
+.info{
+  width: 25%;
+  margin: auto;
+}
+
+.sam-img{
+  height: 300px;
+  margin: 15px auto;
+}
+.cat{
+  top: 300px;
+  right: 350px;
+  position: absolute;
+}
+.dog{
+  top: 300px;
+  left: 350px;
+  position: absolute;
+}
+.mid-container {
+  padding: 100px;
+  position: relative;
+}
+.cube{
+}
+.data{
+  text-align: justify;
+  display: inline-block;
+  font-size: 1.188rem;
+  width: 40%;
+  font-family: 'Nunito', sans-serif;
+  font-weight: bold;
+  color: #222831;
+  left: 600px;
+  top: 265px;
+}
+
+.boxing{
+}
+
+.data-1{
+    text-align: center;
+    display: inline-block;
+    font-size: 1.188rem;
+    width: 40%;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+    color: #222831;
+    left: 600px;
+    top: 265px;
+
+}
+.bot-container{
+  padding: 100px;
+  padding-bottom: 50px;
+  position: relative;
+}
+
+.contact_me {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #F1F6F9;
+   font-family: Tahoma;
+   font-size: 25px;
+   font-weight: 100;
+   padding: 25px;
+   background-color: #9BA4B4;
+   text-shadow: 1px 1px 20px #000000;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 20px
+}
+
+.contact_me:hover {
+   background: #394867;
+   border: solid #000000 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+.links{
+    padding: 50px;
+    padding-bottom: 20px;
+    position: relative;
+    background-color: #a3d2ca;
+}
